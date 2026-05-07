@@ -1,3 +1,5 @@
+github.com/Pilfer/ultimate-guitar-scraper v0.0.0-20231127152243-80bee08c0060 h1:RHCmas8pF6Mt81ddyc4HZVja6OMI6ssnW8XJjIONqt8=
+github.com/Pilfer/ultimate-guitar-scraper v0.0.0-20231127152243-80bee08c0060/go.mod h1:wkRhiOpfoundeyhWMPFSKWX3mUIUtoIb1zuub/Crk78=
 github.com/VividCortex/ewma v1.2.0 h1:f58SaIzcDXrSy3kWaHNvuJgJ3Nmz59Zji6XoJR/q1ow=
 github.com/VividCortex/ewma v1.2.0/go.mod h1:nz4BbCtbLyFDeC9SUHbtcT5644juEuWfUAUnGx7j5l4=
 github.com/cheggaaa/pb/v3 v3.1.4 h1:DN8j4TVVdKu3WxVwcRKu0sG00IIU6FewoABZzXbRQeo=

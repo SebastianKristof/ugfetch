@@ -2,7 +2,7 @@ module ugfetch
 
 go 1.24
 
-require github.com/Pilfer/ultimate-guitar-scraper v0.0.0
+require github.com/Pilfer/ultimate-guitar-scraper v0.0.0-20231127152243-80bee08c0060
 
 require (
 	github.com/VividCortex/ewma v1.2.0 // indirect
@@ -15,5 +15,3 @@ require (
 	github.com/rivo/uniseg v0.2.0 // indirect
 	golang.org/x/sys v0.12.0 // indirect
 )
-
-replace github.com/Pilfer/ultimate-guitar-scraper => /tmp/ultimate-guitar-scraper
